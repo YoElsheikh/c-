@@ -1,2 +1,2 @@
-# c-
-c++ basics 
+# c++
+c++ basics for reference 
